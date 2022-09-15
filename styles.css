@@ -149,6 +149,10 @@ main section:nth-child(1) ul li:nth-child(3){
     animation-delay: 1.8s;
 }
 
+main section:nth-child(1) ul li:nth-child(4){
+    animation-delay: 2.1s;
+}
+
 /*Animation Section 2*/
 
 main section:nth-child(2) ul li{
